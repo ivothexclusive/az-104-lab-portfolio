@@ -9,8 +9,8 @@ Each lab folder has its own README with the scenario, what I configured, and scr
 | # | Lab | Status |
 |---|---|---|
 | 01 | [Manage Microsoft Entra ID Identities](./lab-01-entra-id) | ✅ Done |
-| 02a | Manage Subscriptions and RBAC | ⏳ Up next |
-| 02b | Manage Governance via Azure Policy | ⏳ |
+| 02a | [Manage Subscriptions and RBAC](./lab-02a-subscriptions-rbac) | ✅ Done |
+| 02b | Manage Governance via Azure Policy | ⏳ Up next |
 | 03 | Manage Azure Resources via ARM/Bicep Templates | ⏳ |
 | 04 | Implement Virtual Networking | ⏳ |
 | 05 | Implement Intersite Connectivity | ⏳ |

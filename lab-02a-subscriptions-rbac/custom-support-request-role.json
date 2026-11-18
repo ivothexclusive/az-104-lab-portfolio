@@ -1,0 +1,23 @@
+{
+    "properties": {
+        "roleName": "Custom Support Request",
+        "description": "A custom contributor role for support requests.",
+        "assignableScopes": [
+            "/providers/Microsoft.Management/managementGroups/az104-mg1"
+        ],
+        "permissions": [
+            {
+                "actions": [
+                    "Microsoft.Authorization/*/read",
+                    "Microsoft.Resources/subscriptions/resourceGroups/read",
+                    "Microsoft.Support/*"
+                ],
+                "notActions": [
+                    "Microsoft.Support/register/action"
+                ],
+                "dataActions": [],
+                "notDataActions": []
+            }
+        ]
+    }
+}
